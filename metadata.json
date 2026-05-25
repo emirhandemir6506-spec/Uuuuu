@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Terminal",
+  "description": "An interactive code editor and AI terminal console powered by Gemini, allowing users to write code, simulate runs, view terminal logs, and chat with an embedded AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
